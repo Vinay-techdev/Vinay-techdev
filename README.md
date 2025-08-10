@@ -3,14 +3,13 @@
   <img width="824" height="612"  src="https://github.com/user-attachments/assets/e425213c-533c-4eb7-b045-0c1bed430c42" alt="Coding gif" />
 </p>
 
-<h4 align="center">A passionate full stack developer who loves building interactive user interfaces and scalable backend APIs. I focus on writing clean, efficient code and continuously learning modern technologies. I've got a solid foundation in front-end development like HTML, CSS, JavaScript, React, Next.js and backend technology such as Node.js, Express.js being my go-to tools</h4>
+<h4 align="center">A passionate full stack developer who loves building interactive user interfaces and scalable backend APIs. I focus on writing clean, efficient code and continuously learning modern technologies.</h4>
 
 - 🌱 I’m currently learning **NextJs, TypeScript**
 
 - 📫 How to reach me **vinayp.techdev@gmail.com**
 
-- 📄 Know about me [https://1drv.ms/w/c/0aa27aef12545f62/EUSjsM3nkStBmZvuXZAZTr4BzoxBHduaH4TqK55RtH2gbg?e=fbU3q6](https://1drv.ms/w/c/0aa27aef12545f62/EUSjsM3nkStBmZvuXZAZTr4BzoxBHduaH4TqK55RtH2gbg?e=fbU3q6)
-
+- 📄 Know about me [https://1drv.ms/w/c/0aa27aef12545f62/EUSjsM3nkStBmZvuXZAZTr4BzoxBHduaH4TqK55RtH2gbg?e=fbU3q6](https://1drv.ms/b/c/0aa27aef12545f62/Ebd_TLlqgxFMkEk9vh9hVo8Bc-yCdzn-TztAgOEncM0QZw?e=RMy3Fg)
 
 ---
 
