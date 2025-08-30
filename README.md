@@ -35,8 +35,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinay-techdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay p" height="30" width="40" /></a>
-</p> <br>
+<a href="https://www.linkedin.com/in/vinay-techdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay p" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://vinay-portfolio-three-chi.vercel.app" target="_blank">
+  <img align="center" 
+       src="https://img.icons8.com/ios-filled/50/000000/domain.png" 
+       alt="portfolio" height="30" width="30" />
+</a>
+
+</p>
 
 
 <p align="center">
